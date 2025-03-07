@@ -1,0 +1,31 @@
+[project]
+name = "sound-classification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "essentia>=2.1b6.dev1177",
+    "essentia-tensorflow>=2.1b6.dev1177",
+    "freesound-python",
+    "laion-clap>=1.1.6",
+    "librosa>=0.9.2",
+    "matplotlib>=3.10.1",
+    "numpy<2.0",
+    "pandas>=2.1.0",
+    "python-dotenv>=1.0.1",
+    "scikit-learn>=1.6.1",
+    "tensorflow-macos>=2.15.0",
+    "tensorflow-metal>=1.2.0",
+    "torch<2.6",
+    "torchaudio<2.6",
+    "torchvision<2.6",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+]
+
+[tool.uv.sources]
+freesound-python = { git = "https://github.com/MTG/freesound-python" }
