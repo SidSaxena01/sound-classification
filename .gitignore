@@ -12,3 +12,6 @@ wheels/
 # datasets and other directories
 embeddings
 files
+
+# secrets
+.env
