@@ -1,0 +1,9 @@
+laion-clap==1.1.6
+essentia-tensorflow==2.1b6.dev1110
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+pandas
+numpy
+scikit-learn
+matplotlib
