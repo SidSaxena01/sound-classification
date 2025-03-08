@@ -37,9 +37,10 @@ Alternatively, you can also open them in colab from the links provided.
    jupyter notebook
    ```
 
-2. Open the notebook `AMPLAB Module 4 - Embedding extractor.ipynb`
+2. Open the notebook `embedding_extractor.ipynb`
+3. Open the notebook `sound_classification.ipynb`
 
-3. If you encounter package compatibility issues, run the cell with the setup script and restart the kernel.
+> If you encounter package compatibility issues, run the cell with the setup script and restart the kernel.
 
 ## Troubleshooting
 
