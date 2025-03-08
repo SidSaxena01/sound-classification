@@ -2,10 +2,11 @@
 
 This repository contains notebooks and code for working with audio embeddings and sound classification.
 They can be found in:
-- [Sound Classifiction](./AMPLAB%20Module%204%20-%20Sound%20classification.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/SidSaxena01/sound-classification/blob/main/AMPLAB%20Module%204%20-%20Sound%20classification.ipynb">
+- [Sound Classifiction](./sound_classification.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/SidSaxena01/sound-classification/blob/main/AMPLAB%20Module%204%20-%20Sound%20classification.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-- [Embedding Extractor](./AMPLAB%20Module%204%20-%20Embedding%20extractor.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/SidSaxena01/sound-classification/blob/main/AMPLAB%20Module%204%20-%20Embedding%20extractor.ipynb">
+
+- [Embedding Extractor](./embedding_extractor.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/SidSaxena01/sound-classification/blob/main/AMPLAB%20Module%204%20-%20Embedding%20extractor.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
