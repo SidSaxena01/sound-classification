@@ -1,5 +1,8 @@
 # Sound Classification
 
+Repo - https://github.com/SidSaxena01/sound-classification/tree/main
+
+---
 This repository contains notebooks and code for working with audio embeddings and sound classification.
 They can be found in:
 - [Sound Classification](./sound_classification.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/SidSaxena01/sound-classification/blob/main/AMPLAB%20Module%204%20-%20Sound%20classification.ipynb">
